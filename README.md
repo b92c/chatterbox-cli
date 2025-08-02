@@ -57,7 +57,7 @@ Um chat bot interativo para terminal usando LangChain e Google Gemini, com funci
 
 ### 1. Clone o repositório
 ```bash
-git clone <url-do-repositorio>
+git clone <https://github.com/b92c/chatterbox-cli>
 cd ChatterBox-CLI
 ```
 
