@@ -151,12 +151,9 @@ python main.py
 ChatterBox-CLI/
 ├── main.py              # Arquivo principal do chat
 ├── test_model.py        # Ferramenta de diagnóstico e validação
-├── simple_chat.py       # Chat simplificado para testes
 ├── .env.example         # Exemplo de configuração
 ├── .env                 # Suas configurações (não versionado)
 ├── README.md            # Este arquivo
-├── DEBUG.md             # Log de debugging e troubleshooting
-├── PERFORMANCE.md       # Análise de performance e otimizações
 └── chat_history_*.json  # Conversas salvas (criadas automaticamente)
 ```
 
